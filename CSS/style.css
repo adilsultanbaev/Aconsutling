@@ -23,6 +23,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
   color: #fff;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .header {
@@ -131,6 +133,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .services .container {
@@ -138,6 +142,8 @@ body {
   display: flex;
   justify-content: space-between;
   gap: 30px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .service-card {
@@ -211,7 +217,7 @@ body {
   background-color: #fafafa;
 }
 
-.container {
+.ccc-container {
   background-color: #fafafa;
   width: 100%;
   max-width: 1440px;
@@ -368,6 +374,8 @@ body {
   padding: 50px 20px;
   color: #ffffff;
   gap: 30px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .text-content {
@@ -407,6 +415,8 @@ body {
 .footer {
   background-color: #ffffff;
   padding: 20px 0;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .footer-container {
